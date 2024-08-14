@@ -1,8 +1,13 @@
-# React + Vite
+# R3F 연습
+수업시간에 배운 React Three Fiber 복습
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🥨개발기간
+2024.05.14
 
-Currently, two official plugins are available:
+# 🥨Stacks
+<img src ="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white">
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+& React Three Fiber
+
+# 🥨JURAM's Comment
+마우스 컨트롤도 가능합니다.
